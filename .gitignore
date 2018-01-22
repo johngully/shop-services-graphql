@@ -1,0 +1,6 @@
+# Project directories
+/.vscode
+/node_modules
+
+# Files
+.DS_Store

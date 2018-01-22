@@ -1,0 +1,156 @@
+{
+  "products": [{
+    "id": "1",
+    "details": {
+      "name": "Percey",
+      "description": "A trim update on an old stalwart, Percey is a bookish, modern classic."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Blue",
+      "fit": "Medium",
+      "material": "Acetate",
+      "measurements": "48-20-140",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/s/l/553869971320fab81f6ac4b08bf4165d73d5dcef/2000x1000.jpg"]
+  }, {
+    "id": "2",
+    "details": {
+      "name": "Anders",
+      "description": "With a generously rounded browline and flattering medium fit, Anders is a surefire crowd-pleaser."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Crystal",
+      "fit": "Medium",
+      "material": "Acetate",
+      "measurements": "48-20-145",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/s/l/2cf79264ebbf7c7b750600d64bc123484280fc68/2000x1000.jpg"]
+  }, {
+    "id": "3",
+    "details": {
+      "name": "Watts",
+      "description": "An oversized, round eyeframe lends Watts a charmingly learned look. Slim temple arms and a keyhole bridge add a dose of midcentury panache. Perfect for bookworms and cool cats alike."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Two-tone",
+      "fit": "Medium",
+      "material": "Acetate",
+      "measurements": "49-18-145",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/s/l/f77af776ca4518f817548e6512e0a1c4164b72fe/2000x1000.jpg"]
+  }, {
+    "id": "4",
+    "details": {
+      "name": "Everson",
+      "description": "Everson is a wide-fit, rectangular frame with a twist: a subtle, angular dip in its browline that invites double takes."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Black",
+      "fit": "Wide",
+      "material": "Acetate",
+      "measurements": "54-15-140",
+      "shape": "Rectangle"
+    },
+    "images": ["https://i.warbycdn.com/s/l/e837e1348920a66bc9b1a18bf9bb53d7f529e96b/2000x1000.jpg"]
+  }, {
+    "id": "5",
+    "details": {
+      "name": "Moriarty",
+      "description": "Moriarty's charm is in the details: screws that stud the acetate lens rims, subtle divots on either side of the bridge, and polished metal along the temple arms and browline. (Plus adjustable nose pads for an effortless fit.)"
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Black",
+      "fit": "Medium",
+      "material": "Mixed material",
+      "measurements": "47-21-140",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/s/l/14711a4bd0835614dbdd6fe29efd3f5b0835340e/2000x1000.jpg"]
+  }, {
+    "id": "6",
+    "details": {
+      "name": "York",
+      "description": "York, a vintage-style aviator frame from our Luminary Collection, features a classic teardrop shape and premium Japanese titanium construction."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Silver",
+      "fit": "Medium",
+      "material": "Metal",
+      "measurements": "53-15-145",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/-/l/men-york-eyeglasses-jet-silver-front-2267-746a460f/2000x1000.jpg"]
+  }, {
+    "id": "7",
+    "details": {
+      "name": "Lyle",
+      "description": "A keyhole bridge and classic round frames make Lyle a frame for day and evening alike."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Brown",
+      "fit": "Narrow",
+      "material": "Acetate",
+      "measurements": "47-18-140",
+      "shape": "Square"
+    },
+    "images": ["https://i.warbycdn.com/-/l/men-lyle-eyeglasses-english-oak-front-79-dc131ba7/2000x1000.jpg"]
+  }, {
+    "id": "8",
+    "details": {
+      "name": "Bowen",
+      "description": "Bowen's chiseled corners, straight browline, and wide fit make it an understated but unmistakably dashing frame."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Two-tone",
+      "fit": "Wide",
+      "material": "Acetate",
+      "measurements": "52-20-145",
+      "shape": "Rectangle"
+    },
+    "images": ["https://i.warbycdn.com/s/l/5c1a4d2a6e265df2184edf908374b6767c301889/2000x1000.jpg"]
+  }, {
+    "id": "9",
+    "details": {
+      "name": "Abbott",
+      "description": "Abbott is unapologetically round and effortlessly iconic—it’s also constructed from premium Japanese titanium."
+    },
+    "pricing": {
+      "amount": 95
+    },
+    "attributes": {
+      "color": "Gold",
+      "fit": "Narrow",
+      "material": "Metal",
+      "measurements": "47-19-145",
+      "shape": "Round"
+    },
+    "images": ["https://i.warbycdn.com/-/l/men-abbott-eyeglasses-heritage-bronze-front-2261-14f35a70/2000x1000.jpg"]
+  }]
+}

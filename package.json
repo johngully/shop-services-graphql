@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-services-graphql",
+  "version": "0.1.0",
+  "description": "Service to support the shop examples implemented using graphql",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngully/shop-services-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johngully/shop-services-graphql/issues"
+  },
+  "homepage": "https://github.com/johngully/shop-services-graphql#readme",
+  "author": "John Gully",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3",
+    "lowdb": "^1.0.0"
+  }
+}
